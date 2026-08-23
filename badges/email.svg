@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="34">
+  <rect width="98" height="34" rx="4" fill="#1a1a17" stroke="#2e2e29"/>
+  <g transform="translate(11,10)" stroke="#bf5fff" fill="none" stroke-width="1.6">
+    <rect x="0.8" y="0.8" width="14.4" height="12.4" rx="2"/>
+    <path d="M1.2 2.2l6.8 5.3 6.8-5.3"/>
+  </g>
+  <text x="34" y="21.5" font-family="Consolas, Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#e9e7e1">EMAIL</text>
+</svg>

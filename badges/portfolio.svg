@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="34">
+  <rect width="136" height="34" rx="4" fill="#bf5fff"/>
+  <path d="M18 21.5l5.5-10 5.5 10z" fill="#0f0f0e"/>
+  <text x="37" y="21.5" font-family="Consolas, Menlo, monospace" font-size="12.5" font-weight="bold" letter-spacing="1.5" fill="#0f0f0e">PORTFOLIO</text>
+</svg>

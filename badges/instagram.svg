@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34">
+  <rect width="140" height="34" rx="4" fill="#1a1a17" stroke="#2e2e29"/>
+  <g transform="translate(11,9)" stroke="#bf5fff" fill="none" stroke-width="1.6">
+    <rect x="0.8" y="0.8" width="14.4" height="14.4" rx="4"/>
+    <circle cx="8" cy="8" r="3.4"/>
+    <circle cx="12.4" cy="3.6" r="1" fill="#bf5fff" stroke="none"/>
+  </g>
+  <text x="34" y="21.5" font-family="Consolas, Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#e9e7e1">INSTAGRAM</text>
+</svg>

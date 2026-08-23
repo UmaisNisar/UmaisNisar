@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<a href="https://myportfolio-coral-nu-32.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-bf5fff?style=for-the-badge&logo=vercel&logoColor=0f0f0e" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/umais-nisar-18ab70220/"><img src="https://img.shields.io/badge/LINKEDIN-1a1a17?style=for-the-badge&logo=linkedin&logoColor=bf5fff" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/umais.nisar/"><img src="https://img.shields.io/badge/INSTAGRAM-1a1a17?style=for-the-badge&logo=instagram&logoColor=bf5fff" alt="Instagram" /></a>
-<a href="mailto:umais.nisar01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1a17?style=for-the-badge&logo=gmail&logoColor=bf5fff" alt="Email" /></a>
+<a href="https://myportfolio-coral-nu-32.vercel.app"><img src="./badges/portfolio.svg" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/umais-nisar-18ab70220/"><img src="./badges/linkedin.svg" alt="LinkedIn" /></a>&nbsp;<a href="https://www.instagram.com/umais.nisar/"><img src="./badges/instagram.svg" alt="Instagram" /></a>&nbsp;<a href="mailto:umais.nisar01@gmail.com"><img src="./badges/email.svg" alt="Email" /></a>
 
 </div>
 
@@ -21,21 +18,11 @@ Senior Software Engineer at **VCA Software** in Toronto. I ship .NET/Blazor prod
 
 **Day job**
 
-![C#](https://img.shields.io/badge/C%23-1a1a17?style=flat-square&logo=dotnet&logoColor=bf5fff)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a17?style=flat-square&logo=dotnet&logoColor=bf5fff)
-![Blazor](https://img.shields.io/badge/Blazor-1a1a17?style=flat-square&logo=blazor&logoColor=bf5fff)
-![EF Core](https://img.shields.io/badge/EF_Core-1a1a17?style=flat-square&logo=dotnet&logoColor=bf5fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a17?style=flat-square&logoColor=bf5fff)
-![Azure](https://img.shields.io/badge/Azure-1a1a17?style=flat-square&logoColor=bf5fff)
+<img src="./badges/csharp.svg" alt="C#" /> <img src="./badges/aspnet.svg" alt="ASP.NET Core" /> <img src="./badges/blazor.svg" alt="Blazor" /> <img src="./badges/efcore.svg" alt="EF Core" /> <img src="./badges/sqlserver.svg" alt="SQL Server" /> <img src="./badges/azure.svg" alt="Azure" />
 
 **After hours**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a17?style=flat-square&logo=typescript&logoColor=bf5fff)
-![React](https://img.shields.io/badge/React-1a1a17?style=flat-square&logo=react&logoColor=bf5fff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a17?style=flat-square&logo=nextdotjs&logoColor=bf5fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a17?style=flat-square&logo=tailwindcss&logoColor=bf5fff)
-![GSAP](https://img.shields.io/badge/GSAP-1a1a17?style=flat-square&logo=greensock&logoColor=bf5fff)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1a17?style=flat-square&logo=framer&logoColor=bf5fff)
+<img src="./badges/typescript.svg" alt="TypeScript" /> <img src="./badges/react.svg" alt="React" /> <img src="./badges/nextjs.svg" alt="Next.js" /> <img src="./badges/tailwind.svg" alt="Tailwind CSS" /> <img src="./badges/gsap.svg" alt="GSAP" /> <img src="./badges/framer.svg" alt="Framer Motion" />
 
 ## ✺ Selected Work
 
