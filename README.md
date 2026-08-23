@@ -46,14 +46,7 @@ Senior Software Engineer at **VCA Software** in Toronto. I ship .NET/Blazor prod
 | **[TandooriTasteWebsite](https://github.com/UmaisNisar/TandooriTasteWebsite)** | Restaurant site + full self-serve CMS (Next.js 14, Prisma, NextAuth) · [live ↗](https://tandoori-taste-website.vercel.app) |
 | **[the-hidden-gem](https://github.com/UmaisNisar/the-hidden-gem)** | Portfolio & booking site for a sports photography studio |
 
-## ✺ Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UmaisNisar&show_icons=true&hide_border=true&bg_color=0f0f0e&title_color=bf5fff&text_color=e9e7e1&icon_color=bf5fff" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaisNisar&layout=compact&hide_border=true&bg_color=0f0f0e&title_color=bf5fff&text_color=e9e7e1" alt="Top languages" height="165" />
-
-</div>
+<br />
 
 <div align="center">
 
