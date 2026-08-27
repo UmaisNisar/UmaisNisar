@@ -31,6 +31,7 @@ Senior Software Engineer at **VCA Software** in Toronto. I ship .NET/Blazor prod
 | **[MyPortfolio](https://github.com/UmaisNisar/MyPortfolio)** | This portfolio — cinematic, animation-heavy, 100% static frontend · [live ↗](https://myportfolio-coral-nu-32.vercel.app) |
 | **[InvestAdvisor](https://github.com/UmaisNisar/InvestAdvisor)** | Personal AI investment advisor — LLM analysis over a factor-model screener, multi-currency, free-tier data only |
 | **[dojo-sequence](https://github.com/UmaisNisar/dojo-sequence)** | Structured Tekken 8 training curriculum — learn → drill → pass → unlock, with patch-aware frame data · [live ↗](https://dojo-sequence.vercel.app) |
+| **[macronaut](https://github.com/UmaisNisar/macronaut)** | AI nutrition PWA — describe meals in plain English, Gemini works out the macros; Supabase auth, zero-config solo mode · [live ↗](https://macronaut-lemon.vercel.app) |
 | **[TandooriTasteWebsite](https://github.com/UmaisNisar/TandooriTasteWebsite)** | Restaurant site + full self-serve CMS (Next.js 14, Prisma, NextAuth) · [live ↗](https://tandoori-taste-website.vercel.app) |
 | **[the-hidden-gem](https://github.com/UmaisNisar/the-hidden-gem)** | Portfolio & booking site for a sports photography studio |
 
