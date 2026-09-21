@@ -33,7 +33,7 @@ Senior Software Engineer at **VCA Software** in Toronto. I ship .NET/Blazor prod
 | **[finsight](https://github.com/UmaisNisar/finsight)** | AI finance analyzer — reads bank statements from Gmail, explains where the money goes; the AI never does the math (.NET 10, React 19) · [live ↗](https://finsightmax.duckdns.org) |
 | **[fpl-autopilot](https://github.com/UmaisNisar/fpl-autopilot)** | One-button FPL decision engine — deterministic expected-points model, Gemini only explains · [live ↗](https://fpl-autopilot-seven.vercel.app) |
 | **[dojo-sequence](https://github.com/UmaisNisar/dojo-sequence)** | Structured Tekken 8 training curriculum — learn → drill → pass → unlock, with patch-aware frame data · [live ↗](https://dojo-sequence.vercel.app) |
-| **[InvestAdvisor](https://github.com/UmaisNisar/InvestAdvisor)** | Personal AI investment advisor — LLM analysis over a factor-model screener, multi-currency, free-tier data only · [live ↗](https://invest.investadvisor.space) |
+| **[InvestAdvisor](https://github.com/UmaisNisar/InvestAdvisor)** | Personal AI investment advisor — LLM analysis over a factor-model screener, multi-currency, free-tier data only · [try the demo ↗](https://demo.investadvisor.space) |
 | **[TandooriTasteWebsite](https://github.com/UmaisNisar/TandooriTasteWebsite)** | Restaurant site + full self-serve CMS (Next.js 14, Prisma, NextAuth) · [live ↗](https://tandoori-taste-website.vercel.app) |
 
 <br />
