@@ -30,7 +30,7 @@ Senior Software Engineer at **VCA Software** in Toronto. I ship .NET/Blazor prod
 | --- | --- |
 | **[MyPortfolio](https://github.com/UmaisNisar/MyPortfolio)** | This portfolio — cinematic, animation-heavy, 100% static frontend · [live ↗](https://myportfolio-coral-nu-32.vercel.app) |
 | **[macronaut](https://github.com/UmaisNisar/macronaut)** | AI nutrition PWA — describe meals in plain English, Gemini works out the macros; Supabase auth, zero-config solo mode · [live ↗](https://macronaut-lemon.vercel.app) |
-| **[finsight](https://github.com/UmaisNisar/finsight)** | AI finance analyzer — reads bank statements from Gmail, explains where the money goes; the AI never does the math (.NET 10, React 19) |
+| **[finsight](https://github.com/UmaisNisar/finsight)** | AI finance analyzer — reads bank statements from Gmail, explains where the money goes; the AI never does the math (.NET 10, React 19) · [live ↗](https://finsightmax.duckdns.org) |
 | **[fpl-autopilot](https://github.com/UmaisNisar/fpl-autopilot)** | One-button FPL decision engine — deterministic expected-points model, Gemini only explains · [live ↗](https://fpl-autopilot-seven.vercel.app) |
 | **[dojo-sequence](https://github.com/UmaisNisar/dojo-sequence)** | Structured Tekken 8 training curriculum — learn → drill → pass → unlock, with patch-aware frame data · [live ↗](https://dojo-sequence.vercel.app) |
 | **[InvestAdvisor](https://github.com/UmaisNisar/InvestAdvisor)** | Personal AI investment advisor — LLM analysis over a factor-model screener, multi-currency, free-tier data only |
